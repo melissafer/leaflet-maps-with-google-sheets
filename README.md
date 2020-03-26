@@ -19,8 +19,9 @@ Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](h
 - leaflet-locatecontrol (v0.60.0) https://github.com/domoritz/leaflet-locatecontrol (MIT)
 - Leaflet.markercluster (v1.0.4) https://github.com/Leaflet/Leaflet.markercluster (MIT)
 - Leaflet.MarkerCluster.LayerSupport (v.1.0.3) https://github.com/ghybs/Leaflet.MarkerCluster.LayerSupport (MIT)
-- Font Awesome (v4.7) https://cdn.fontawesome.com (MIT, SIL OFL 1.1)
+//- Font Awesome (v4.7) https://cdn.fontawesome.com (MIT, SIL OFL 1.1)
 - Leaflet.awesome-markers (v2.0.4) https://github.com/sigma-geosistemas/Leaflet.awesome-markers (MIT)
+http://fontawesome.io/icons
 - Single Element CSS Spinner (31 May 2016) https://github.com/lukehaas/css-loaders (MIT)
 - Tabletop.js gives spreadsheets legs, by returning Google Sheets data in JSON format (v1.5.1) https://github.com/jsoma/tabletop (MIT)
 - Google Colour Palette Generator (2015) https://github.com/google/palette.js (MIT)
